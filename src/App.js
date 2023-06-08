@@ -1,4 +1,5 @@
 import './App.css';
+import { Article, Brand, Cta, Feature, Navbar } from './components';
 
 function App() {
   return (
